@@ -7,7 +7,7 @@ class MergeTwoSorted {
             nums[k]=nums1[i];
             k++;i++;
         }
-        else{
+        else{ 
             nums[k]=nums2[j];
             k++;j++;
         }
